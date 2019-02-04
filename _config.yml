@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Digital Scholarship Research Intensive
+email:       digitalscholarship@swarthmore.edu
+author:      Trico DS
+description: "Digital Scholarship Research Intensive, Sponsored by Trico DS. Bryn Mawr, May 8-9, 2019"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -85,13 +85,13 @@ text:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
     twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
+    googleplus:   false
+    linkedin:     false
+    digg:         false
+    tumblr:       false
+    reddit:       false
+    stumbleupon:  false
+    hackernews:   false
   post:
     updated:        'Updated'
     minute_read:    'minute read'
