@@ -2,10 +2,10 @@
 $base-font-size: 14px !default;
 $bold-font-weight: bold !default;
 // $font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
-$font-family: 'Work Sans', Georgia, 'Times New Roman', serif !default;
+$font-family: 'Work Sans', "Helvetica Neue", 'Times New Roman', serif !default;
 $line-height: 1.5 !default;
 // $heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
-$heading-font-family: 'Work Sans', 'Helvetica Neue', Helvetica, sans-serif !default;
+$heading-font-family: 'Work Sans', Helvetica, sans-serif !default;
 $heading-font-weight: 500 !default;
 $heading-line-height: 1.25 !default;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
@@ -34,7 +34,8 @@ $viewport-medium: 48em;
 $viewport-large: 64em;
 
 // Colors
-$blue: #0076df !default;
+// $blue: #0076df !default;
+$blue: #083d77 !default;
 // $red: #f95020 !default;
 $red: #A62F2B !default;
 $green: #00cf26 !default;
@@ -56,8 +57,8 @@ $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
 // Links
-$link-color: $red;
-$link-hover-color: darken($red, 40%);
+$link-color: $blue;
+$link-hover-color: darken($blue, 40%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
