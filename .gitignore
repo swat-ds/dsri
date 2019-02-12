@@ -7,3 +7,4 @@ vendor
 _config.gh-pages.yml
 
 Gemfile.lock
+.bundle

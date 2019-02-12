@@ -3,8 +3,8 @@ title:       DSRI @ Bryn Mawr, May 6-7 2019
 email:       digitalscholarship@swarthmore.edu
 author:      Trico DS
 description: "Digital Scholarship Research Intensive, Sponsored by Trico DS. Bryn Mawr, May 8-9, 2019"
-baseurl:     ""
-url:         ""
+baseurl:     "/dsri"
+url:         "http://ds.swarthmore.edu/dsri"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md

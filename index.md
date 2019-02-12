@@ -3,18 +3,23 @@ layout: page
 id: home
 ---
 
-# Digital Scholarship Research Institute
+# **Digital Scholarship Research Institute**
 
-## Call for Applications
+## **Call for Applications**
 
-The Digital Scholarship Research Institute (DSRI) is a two-day intensive institute for Tri-Co faculty to explore interdisciplinary, digital scholarship research and teaching methods through hands-on workshops and guided practices. The DSRI is grounded in fundamentals, and we welcome both faculty new to digital scholarship and those interested in taking their skills to the next level. Participants can expect to gain experience with fundamental digital scholarship tools and methods including navigating your computer via the command line, cleaning messy data, version control, and sharing your work publicly while also learning about local digital scholarship communities and support.
+The Digital Scholarship Research Institute (DSRI) is a two-day intensive institute for Tri-Co faculty to explore interdisciplinary digital scholarship research and teaching methods through hands-on workshops and guided practices. We welcome both faculty new to digital scholarship and those interested in taking their skills to the next level. You can expect to gain experience with fundamental digital scholarship tools and methods including navigating your computer via the command line, cleaning messy data, practicing version control, and sharing your work publicly, while also learning about local digital scholarship communities and support.
 
-Apply now. Review of applications begins on March 1, 2019. Notice will be sent to applicants by March *.
+The Digital Scholarship Research Institute will be hosted in the newly renovated Park Science Building at Bryn Mawr College from **May 6-7, 2019**. Workshops and events will be held **9:00 A.M. - 5:00 P.M. on May 6th**, and **9:00 A.M. - 6:30 P.M. on May 7th**.  Breakfast, lunch, and snacks will be catered on both days, and a beer and wine reception with hors d'oeuvres will be provided on the second day. 
 
-The DSRI is sponsored by *, *, and Bryn Mawr College’s LITS. Much of the curriculum was developed as part of the NEH-sponsored Digital Humanities Research Institute hosted at the CUNY Grad Center in June 2018. 
+# [Register now!](https://goo.gl/forms/vOqa0ecMZN59NAv53)
+
+Space is limited, so please register by March 1, 2019.
 
 Because an essential aspect of the DSRI is building community among Tri-Co faculty members interested in digital scholarship, participants are expected to commit to attending the full two-day experience at Bryn Mawr College from May 6-7, 2019 and to attend all of the workshops, seminars, and events during this time.  (See childcare options provided or recommended by [Bryn Mawr](https://www.brynmawr.edu/humanresources/daycare-assistance), [Haverford](https://www.haverford.edu/sites/default/files/Office/Provost/HC-Daycare-Recommendations.pdf), and [Swarthmore](https://www.swarthmore.edu/human-resources/child-and-eldercare-resources.)
 
+*The DSRI is sponsored by Bryn Mawr College’s LITS, Haverford College Libraries, and Swarthmore Libraries. The Tri-Co DSRI was developed as part of the NEH-sponsored [Digital Humanities Research Institute](http://dhinstitutes.org/) hosted at the CUNY Grad Center in June 2018.*
+
+<div class="schedule">
 ---
 
 ## Tentative Schedule
@@ -64,35 +69,38 @@ Because an essential aspect of the DSRI is building community among Tri-Co facul
 4:30-5:00   Wrap-up
 
 5:00-6:30   Reception
-
+</div>
 ---
 
 ## Workshop Descriptions
 
-### Command Line
+### **Command Line**
 
 The command line is a powerful, text-based way to interact with your computer. You can automate tasks such as creating, copying, and converting files, set up your programming environment, run programs, control other computers remotely, and access programs and utilities that do not have graphical equivalents. In this introduction, we will learn common commands to explore and manipulate a simple data set. By the end of the session, we'll be able to navigate your computer, create and manipulate files, and transform text-based data using only the command line. Stepping away from a point-and-click workflow, we move into an environment where we have more minute control over each task we'd like the computer to perform. In addition to being a useful tool in itself, the command line gives us access to a second set of programs and utilities and is a complement to learning programming.
 
-### Tidy Data (with OpenRefine?)
+### Why learn the command line?
 
-By the end of the session, we’ll be introduced to a flexible tool and strategies for taking very different kinds of information and creating well-formed data, data that can then be used for analysis or visualization. [placeholder]
+Beyond being one of the most fundamental and powerful ways to interact with your computer, learning the basics of the command line will make it easier to use a number of digital scholarship methods and tools.
 
-### Intro to git/GitHub
+### Further reading: [ProfHacker](https://www.chronicle.com/blogs/profhacker/the-profhacker-guide-to-the-command-line/36125) / [Programming Historian](https://programminghistorian.org/en/lessons/intro-to-bash)
+
+### **Tidy Data**
+
+By the end of the session, we’ll be introduced to strategies and tools for taking very different kinds of information and creating well-formed data, data that can then be used for analysis or visualization.
+
+### Why learn to keep your data clean and tidy?
+
+### Further reading: [Programming Historian](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine#why-should-historians-care-about-data-quality)
+
+### **Intro to git/GitHub**
 
 Git is a tool for managing changes to a set of files. It allows users to recover earlier versions of a project, and collaborate with other contributors. GitHub is a web-based platform that provides access to open source repositories and facilitates collaboration on files, code, or datasets. This session will introduce participants to version control and collaboration using Git and GitHub, and demonstrate their use in digital projects.
 
----
+### Why learn git/GitHub?
 
-### Why learn the command line?
-- [ProfHacker](https://www.chronicle.com/blogs/profhacker/the-profhacker-guide-to-the-command-line/36125)
-- [Programming Historian](https://programminghistorian.org/en/lessons/intro-to-bash)
+If you’ve ever wanted a clean way to keep an organized history of your documents, data, or code without saving dozens of numbered copies of the same files, git and Github can help while also facilitating collaborative research and authoring.
 
-### Why learn to keep your data clean and tidy?
-- [Programming Historian](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine#why-should-historians-care-about-data-quality)
-
-### Why learn Git and GitHub?
-- [PhDComics](http://phdcomics.com/comics/archive_print.php?comicid=1531)
-- [Version Control and Academic Writing](https://www.colinmclear.net/posts/versioncontrol/)
+### Further reading: [PhDComics](http://phdcomics.com/comics/archive_print.php?comicid=1531) / [Version Control and Academic Writing](https://www.colinmclear.net/posts/versioncontrol/)
 
 ---
 
@@ -104,10 +112,12 @@ Git is a tool for managing changes to a set of files. It allows users to recover
 {% for contributor in contributors %}
 
 <div class="contributor">
-<div class="avatar" style="background-image:url({{ contributor[1].image | prepend: 'images/'; }});" alt="{{ contributor[1].name }}"></div>
+<div class="avatar" style="background-image:url({{ contributor[1].image | prepend: 'images/' }});" alt="{{ contributor[1].name }}"></div>
 <div class="bio">
-{{ contributor[1].name | prepend: "<h3>" | append: "</h3>" }}
-{{ contributor[1].bio | prepend: "<p>" | append: "</p>" }}
+<p>
+<strong>{{ contributor[1].name }}</strong>
+{{ contributor[1].bio }}
+</p>
 </div>
 <div class="clearfix"></div>
 </div>

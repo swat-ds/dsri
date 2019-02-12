@@ -192,7 +192,7 @@ header.site-header .site-nav {
 
 .contributors-gallery .contributor {
   
-  height: 210px;
+  // height: 210px;
   margin-bottom: 1rem;
 
   & .avatar {
@@ -220,4 +220,8 @@ header.site-header .site-nav {
     }
   }
 
+}
+
+.schedule {
+  display: none;
 }
