@@ -15,7 +15,7 @@ The Digital Scholarship Research Institute will be hosted in the newly renovated
 
 Space is limited, so please register by March 1, 2019.
 
-Because an essential aspect of the DSRI is building community among Tri-Co faculty members interested in digital scholarship, participants are expected to commit to attending the full two-day experience at Bryn Mawr College from May 6-7, 2019 and to attend all of the workshops, seminars, and events during this time.  (See childcare options provided or recommended by [Bryn Mawr](https://www.brynmawr.edu/humanresources/daycare-assistance), [Haverford](https://www.haverford.edu/sites/default/files/Office/Provost/HC-Daycare-Recommendations.pdf), and [Swarthmore](https://www.swarthmore.edu/human-resources/child-and-eldercare-resources.)
+Because an essential aspect of the DSRI is building community among Tri-Co faculty members interested in digital scholarship, participants are expected to commit to attending the full two-day experience at Bryn Mawr College from May 6-7, 2019 and to attend all of the workshops, seminars, and events during this time.  (See childcare options provided or recommended by [Bryn Mawr](https://www.brynmawr.edu/humanresources/daycare-assistance), [Haverford](https://www.haverford.edu/sites/default/files/Office/Provost/HC-Daycare-Recommendations.pdf), and [Swarthmore](https://www.swarthmore.edu/human-resources/child-and-eldercare-resources).)
 
 *The DSRI is sponsored by Bryn Mawr College’s LITS, Haverford College Libraries, and Swarthmore Libraries. The Tri-Co DSRI was developed as part of the NEH-sponsored [Digital Humanities Research Institute](http://dhinstitutes.org/) hosted at the CUNY Grad Center in June 2018.*
 
