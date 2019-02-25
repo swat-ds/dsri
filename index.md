@@ -19,6 +19,10 @@ Because an essential aspect of the DSRI is building community among Tri-Co facul
 
 *The DSRI is sponsored by Bryn Mawr College’s LITS, Haverford College Libraries, and Swarthmore Libraries. The Tri-Co DSRI was developed as part of the NEH-sponsored [Digital Humanities Research Institute](http://dhinstitutes.org/) hosted at the CUNY Grad Center in June 2018.*
 
+[![digital humanities research institute logo](images/DHRI-03.svg)](http://dhinstitutes.org/)
+[![national endowment for the humanities logo](images/NEH_stacked_logo-01_full-color.jpg)](https://www.neh.gov/)
+{: .logos}
+
 <div class="schedule">
 ---
 
@@ -86,7 +90,7 @@ Beyond being one of the most fundamental and powerful ways to interact with your
 
 ### **Tidy Data**
 
-By the end of the session, we’ll be introduced to strategies and tools for taking very different kinds of information and creating well-formed data, data that can then be used for analysis or visualization.
+In order to begin thinking about digital methods, scholars must first make the conceptual leap toward thinking about their research as data. How do we get at the data in our research and how do we make it useful and usable by machines? What are some of the promises (and perils) of reframing research as data? By the end of the session, we’ll be introduced to strategies and tools for taking very different kinds of information and creating well-formed data, data that can then be used for analysis or visualization.
 
 ### Why learn to keep your data clean and tidy?
 

@@ -190,6 +190,15 @@ header.site-header .site-nav {
   margin-top: 2*$h1;
 }
 
+.home .logos {
+  a {
+    background-image: none;
+  }
+  img {
+    max-width: 300px;
+  }
+}
+
 .contributors-gallery .contributor {
   
   // height: 210px;
