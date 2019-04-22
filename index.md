@@ -23,57 +23,39 @@ Because an essential aspect of the DSRI is building community among Tri-Co facul
 [![national endowment for the humanities logo](images/NEH_stacked_logo-01_full-color.jpg)](https://www.neh.gov/)
 {: .logos}
 
-<div class="schedule">
 ---
 
-## Tentative Schedule
+## Schedule
 
-### Monday, May 6, 2019
+### **Monday, May 6, 2019**
 
-8:15-9:00   Registration & Breakfast
+| 8:45 - 9:00am | Registration & Breakfast |
+| 9:00 - 10:00 | Introductions & Overview |
+| 10:00 - 10:30 | Installations & Break |
+| 10:30 - 12:00pm | Introduction to the Command Line, Part I |
+| 12:00 - 1:30 | Lunch |
+| 1:30 - 2:30 | Introduction to the Command Line, Part II |
+| 2:30 - 2:45 | Break |
+| 2:45 - 4:00 | GitHub for Scholars, Part I |
+| 4:00 - 5:00 | Wrap-Up & Happy Hour Installations |
+| | |
 
-9:00-9:30   Introductions, Overview
 
-9:30-10:45  Introduction to the Command Line
+### **Tuesday, May 7, 2019**
 
-10:45-11:00     Break 
+| 8:45 - 9:00am | Breakfast |
+| 9:00 - 9:30 | Introductions & Overview |
+| 9:30 - 10:45 | GitHub for Scholars, Part II |
+| 10:45 - 11:00 | Break |
+| 11:00 - 12:15pm | Tidy(ish) Data, Part I |
+| 12:15 - 1:30 | Lunch |
+| 1:30 - 2:45 | Tidy(ish) Data, Part 2 |
+| 2:45 - 3:00 | Break |
+| 3:00 - 4:30 | Project Workshop |
+| 4:30 - 5:00 | Wrap-up |
+| 5:00 - 6:30 | Reception |
+| | |
 
-11:00-12:00     Introduction to the Command Line, Part II
-
-12:00-1:30  Lunch 
-
-1:30-2:45   Tidy Data
-
-2:45-3:00   Break
-
-3:00-4:00   Tidy Data
-
-4:00-5:00   Daily wrap-up and Happy Hour Installations
-
-### Tuesday, May 7, 2019
-
-8:15-9:00   Breakfast
-
-9:00-9:15   Introductions, Overview
-
-9:15-10:45  Git/GitHub for Scholars
-
-10:45-11:00     Break
-
-11:00-12:00     Git/GitHub for Scholars
-
-12:00-1:30  Lunch 
-
-1:30-2:45   Introduction to HTML/CSS
-
-2:45-3:00   Break
-
-3:00-4:30   Introduction to HTML/CSS
-
-4:30-5:00   Wrap-up
-
-5:00-6:30   Reception
-</div>
 ---
 
 ## Workshop Descriptions
@@ -88,7 +70,7 @@ Beyond being one of the most fundamental and powerful ways to interact with your
 
 ### Further reading: [ProfHacker](https://www.chronicle.com/blogs/profhacker/the-profhacker-guide-to-the-command-line/36125) / [Programming Historian](https://programminghistorian.org/en/lessons/intro-to-bash)
 
-### **Tidy Data**
+### **Tidy(ish) Data**
 
 In order to begin thinking about digital methods, scholars must first make the conceptual leap toward thinking about their research as data. How do we get at the data in our research and how do we make it useful and usable by machines? What are some of the promises (and perils) of reframing research as data? By the end of the session, we’ll be introduced to strategies and tools for taking very different kinds of information and creating well-formed data, data that can then be used for analysis or visualization.
 
