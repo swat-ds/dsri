@@ -66,7 +66,7 @@ Bryn Mawr College<br/>
 
 ## Workshop Descriptions
 
-### **Command Line**
+### **[Command Line](https://github.com/tri-cods/command-line)**
 
 The command line is a powerful, text-based way to interact with your computer. You can automate tasks such as creating, copying, and converting files, set up your programming environment, run programs, control other computers remotely, and access programs and utilities that do not have graphical equivalents. In this introduction, we will learn common commands to explore and manipulate a simple data set. By the end of the session, we'll be able to navigate your computer, create and manipulate files, and transform text-based data using only the command line. Stepping away from a point-and-click workflow, we move into an environment where we have more minute control over each task we'd like the computer to perform. In addition to being a useful tool in itself, the command line gives us access to a second set of programs and utilities and is a complement to learning programming.
 
@@ -76,7 +76,7 @@ Beyond being one of the most fundamental and powerful ways to interact with your
 
 ### Further reading: [ProfHacker](https://www.chronicle.com/blogs/profhacker/the-profhacker-guide-to-the-command-line/36125) / [Programming Historian](https://programminghistorian.org/en/lessons/intro-to-bash)
 
-### **Tidy(ish) Data**
+### **[Tidy(ish) Data](https://github.com/tri-cods/command-line)**
 
 In order to begin thinking about digital methods, scholars must first make the conceptual leap toward thinking about their research as data. How do we get at the data in our research and how do we make it useful and usable by machines? What are some of the promises (and perils) of reframing research as data? By the end of the session, we’ll be introduced to strategies and tools for taking very different kinds of information and creating well-formed data, data that can then be used for analysis or visualization.
 
@@ -84,7 +84,7 @@ In order to begin thinking about digital methods, scholars must first make the c
 
 ### Further reading: [Programming Historian](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine#why-should-historians-care-about-data-quality)
 
-### **Intro to git/GitHub**
+### **[Intro to git/GitHub](https://github.com/tri-cods/github)**
 
 Git is a tool for managing changes to a set of files. It allows users to recover earlier versions of a project, and collaborate with other contributors. GitHub is a web-based platform that provides access to open source repositories and facilitates collaboration on files, code, or datasets. This session will introduce participants to version control and collaboration using Git and GitHub, and demonstrate their use in digital projects.
 
