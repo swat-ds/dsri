@@ -37,12 +37,12 @@ Bryn Mawr College<br/>
 
 | 8:45 - 9:00am | Registration & Breakfast |
 | 9:00 - 10:00 | Introductions & Overview |
-| 10:00 - 10:30 | Installations & Break |
-| 10:30 - 12:00pm | Introduction to the Command Line, Part I |
+| 10:00 - 10:30 | [Installations & Break](https://github.com/tri-cods/install) |
+| 10:30 - 12:00pm | [Introduction to the Command Line, Part I](https://github.com/tri-cods/command-line) |
 | 12:00 - 1:30 | Lunch |
-| 1:30 - 2:30 | Introduction to the Command Line, Part II |
+| 1:30 - 2:30 | [Introduction to the Command Line, Part II](https://github.com/tri-cods/command-line) |
 | 2:30 - 2:45 | Break |
-| 2:45 - 4:00 | GitHub for Scholars, Part I |
+| 2:45 - 4:00 | [GitHub for Scholars, Part I](https://github.com/tri-cods/github) |
 | 4:00 - 5:00 | Wrap-Up & Happy Hour Installations |
 | | |
 
@@ -51,11 +51,11 @@ Bryn Mawr College<br/>
 
 | 8:45 - 9:00am | Breakfast |
 | 9:00 - 9:30 | Introductions & Overview |
-| 9:30 - 10:45 | GitHub for Scholars, Part II |
+| 9:30 - 10:45 | [GitHub for Scholars, Part II](https://github.com/tri-cods/github) |
 | 10:45 - 11:00 | Break |
-| 11:00 - 12:15pm | Tidy(ish) Data, Part I |
+| 11:00 - 12:15pm | [Tidy(ish) Data, Part I](https://github.com/tri-cods/tidy-data) |
 | 12:15 - 1:30 | Lunch |
-| 1:30 - 2:45 | Tidy(ish) Data, Part 2 |
+| 1:30 - 2:45 | [Tidy(ish) Data, Part 2](https://github.com/tri-cods/tidy-data) |
 | 2:45 - 3:00 | Break |
 | 3:00 - 4:30 | Project Workshop |
 | 4:30 - 5:00 | Wrap-up |
