@@ -43,7 +43,7 @@ Bryn Mawr College<br/>
 | 1:30 - 2:30 | [Introduction to the Command Line, Part II](https://github.com/tri-cods/command-line) |
 | 2:30 - 2:45 | Break |
 | 2:45 - 4:00 | [GitHub for Scholars, Part I](https://github.com/tri-cods/github) |
-| 4:00 - 5:00 | [Wrap-Up](https://docs.google.com/forms/d/e/1FAIpQLSeldzPiCrXjv1gdI1qB-1hQHP945cxQj0ZK83i63cLh5fUT7w/viewform?usp=sf_link) & Happy Hour Installations |
+| 4:00 - 5:00 | Wrap-Up & Happy Hour Installations |
 | | |
 
 
@@ -58,7 +58,7 @@ Bryn Mawr College<br/>
 | 1:30 - 2:45 | [Tidy(ish) Data, Part 2](https://github.com/tri-cods/tidy-data) |
 | 2:45 - 3:00 | Break |
 | 3:00 - 4:30 | Project Workshop |
-| 4:30 - 5:00 | Wrap-up |
+| 4:30 - 5:00 | Wrap-up & [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeS5WxlzzC7oe5xUNHrpwIb5OT2UltqMibiksV9FCV9Kka1Bw/viewform?usp=sf_link) |
 | 5:00 - 6:30 | Reception |
 | | |
 
