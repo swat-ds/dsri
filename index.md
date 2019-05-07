@@ -57,7 +57,7 @@ Bryn Mawr College<br/>
 | 12:15 - 1:30 | Lunch |
 | 1:30 - 2:45 | [Tidy(ish) Data, Part 2](https://github.com/tri-cods/tidy-data) |
 | 2:45 - 3:00 | Break |
-| 3:00 - 4:30 | Project Workshop |
+| 3:00 - 4:30 | [Project Workshop](https://github.com/tri-cods/Ed-Minimal-Editions) |
 | 4:30 - 5:00 | Wrap-up & [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeS5WxlzzC7oe5xUNHrpwIb5OT2UltqMibiksV9FCV9Kka1Bw/viewform?usp=sf_link) |
 | 5:00 - 6:30 | Reception |
 | | |
