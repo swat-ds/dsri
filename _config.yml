@@ -4,7 +4,7 @@ email:       digitalscholarship@swarthmore.edu
 author:      Trico DS
 description: "Digital Scholarship Research Intensive, Sponsored by Trico DS. Haverford, May 4-5, 2020"
 baseurl:     "/dsri"
-url:         "http://ds.swarthmore.edu/dsri"
+url:         "http://ds-pages.swarthmore.edu/dsri"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
