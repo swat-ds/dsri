@@ -10,17 +10,18 @@ andy:
 #   image: linker.jpg
 #   school: brynmawr
 
-alice:
-  name: Alice McGrath
-  bio: is the Digital Scholarship Specialist at Bryn Mawr College. She  earned her Ph.D. in English from the University of Pennsylvania, specializing in eighteenth-century British literature and gender and sexuality studies. Before coming to Bryn Mawr in 2019, she was the Postdoctoral Fellow for Accessibility at Penn Libraries, where she helped develop the Accessibility Mapping Project and served as research coordinator for the Early Novels Database.
-  image: mcgrath.jpeg
-  school: brynmawr
 
 nabil:
   name: Nabil Kashyap
   bio: is the Digital Scholarship Librarian at Swarthmore College. As developer, designer, and project manager, his work has ranged from radical digital archives to participatory computational linguistics. He is increasingly involved in student programs and projects that bridge critical and technical pedagogy. He holds an MSI from the University of Michigan and an MFA from the University of Montana.
   image: kashyap.jpeg
-  school: wwarthmore
+  school: swarthmore
+  
+alice:
+  name: Alice McGrath
+  bio: is the Digital Scholarship Specialist at Bryn Mawr College. She  earned her Ph.D. in English from the University of Pennsylvania, specializing in eighteenth-century British literature and gender and sexuality studies. Before coming to Bryn Mawr in 2019, she was the Postdoctoral Fellow for Accessibility at Penn Libraries, where she helped develop the Accessibility Mapping Project and served as research coordinator for the Early Novels Database.
+  image: mcgrath.jpeg
+  school: brynmawr
 
 alicia:
   name: Alicia Peaker
