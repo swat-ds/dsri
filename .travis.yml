@@ -7,7 +7,7 @@ rvm:
  - 2.5
  - 2.6
 
- env:
+env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # JEKYLL_ENV=production
 
