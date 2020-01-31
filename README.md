@@ -1,4 +1,6 @@
-# Pixyll
+# Pixyll 
+
+[![Build Status](https://travis-ci.com/swat-ds/dsri.svg?branch=master)](https://travis-ci.com/swat-ds/dsri)
 
 [pixyll.com](http://www.pixyll.com)
 
