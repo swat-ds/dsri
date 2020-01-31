@@ -4,11 +4,11 @@ andy:
   image: janco.jpeg
   school: haverford
 
-jessica:
-  name: Jessica Linker
-  bio: is the CLIR Humanities and Digital Scholarship Postdoctoral Fellow at Bryn Mawr College. She received her Ph.D. in History from the University of Connecticut, and her MA in History from Brown University. At Wellesley College, she majored in History and minored in Computer Science. She has worked on a number of digital projects and initiatives, the most recent being the Provenance Online Project and The Encyclopedia of Greater Philadelphia. 
-  image: linker.jpg
-  school: brynmawr
+# jessica:
+#   name: Jessica Linker
+#   bio: is the CLIR Humanities and Digital Scholarship Postdoctoral Fellow at Bryn Mawr College. She received her Ph.D. in History from the University of Connecticut, and her MA in History from Brown University. At Wellesley College, she majored in History and minored in Computer Science. She has worked on a number of digital projects and initiatives, the most recent being the Provenance Online Project and The Encyclopedia of Greater Philadelphia. 
+#   image: linker.jpg
+#   school: brynmawr
 
 alice:
   name: Alice McGrath

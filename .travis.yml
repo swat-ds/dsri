@@ -6,10 +6,21 @@ rvm:
  - 2.4
  - 2.5
  - 2.6
+
+ env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # JEKYLL_ENV=production
+
 script:
  - bundle exec jekyll build
- - grep johnotander/pixyll _site/index.html
- - grep post-title         _site/index.html
- - grep pagination-item    _site/index.html
- - grep johnotander/pixyll _site/css/pixyll.css
- - grep 404                _site/404.html
+
+deploy:
+  provider: s3
+  access_key_id: ${S3_ACCESS_KEY_ID}
+  secret_access_key: ${S3_SECRET}
+  skip_cleanup: true
+  bucket: "sc-lib-ds-static"
+  local_dir: _site
+  upload_dir: dsri
+  detect_encoding: true
+  default_text_charset: 'utf-8'
