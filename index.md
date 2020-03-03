@@ -7,7 +7,7 @@ id: home
 
 <a href="https://forms.gle/SKUMEmmRF1gwdRKw9" target="_blank"><button class="button-blue">Application Form</button></a>
 
-**Apply by March, 16th**
+**Apply by March 16th**
 
 The Digital Scholarship Research Institute (DSRI) is a two-day intensive institute for Tri-Co faculty to explore interdisciplinary digital scholarship research and teaching methods through hands-on workshops and guided practices. We welcome both faculty new to digital scholarship and those interested in taking their skills to the next level. You can expect to gain experience with fundamental digital scholarship tools and methods including navigating your computer via the command line, cleaning messy data, practicing version control, and sharing your work publicly, while also learning about local digital scholarship communities and support.
 
