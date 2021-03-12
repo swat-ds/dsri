@@ -23,11 +23,11 @@ alice:
   image: mcgrath.jpeg
   school: brynmawr
 
-alicia:
-  name: Alicia Peaker
-  bio: 'is the Director of Digital Scholarship, Critical Making, and Digital Collections Management at Bryn Mawr College. Alicia Peaker received her Ph.D. in English from Northeastern University and completed a postdoctoral fellowship in the Digital Liberal Arts at Middlebury College. She has also worked as the Co-Director for Our Marathon: The Boston Bombing Digital Archive, the Project Manager for the Women Writers Project, and the Managing & Development Editor for GradHacker at InsideHigherEd.'
-  image: peaker.png
-  school: brynmawr
+# alicia:
+#   name: Alicia Peaker
+#   bio: 'is the Director of Digital Scholarship, Critical Making, and Digital Collections Management at Bryn Mawr College. Alicia Peaker received her Ph.D. in English from Northeastern University and completed a postdoctoral fellowship in the Digital Liberal Arts at Middlebury College. She has also worked as the Co-Director for Our Marathon: The Boston Bombing Digital Archive, the Project Manager for the Women Writers Project, and the Managing & Development Editor for GradHacker at InsideHigherEd.'
+#   image: peaker.png
+#   school: brynmawr
 
 roberto:
   name: Roberto Vargas

@@ -186,6 +186,12 @@ header.site-header .site-nav {
   border: 1px solid $red;
 }
 
+.button-blue a{
+  color: unset;
+  text-decoration: none;
+  background-image: unset;
+}
+
 .mb2 {
   margin-top: 2*$h1;
 }

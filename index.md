@@ -3,19 +3,19 @@ layout: page
 id: home
 ---
 
-# **Digital Scholarship Research Institute**
+# **Digital Scholarship Research Institute 2021**
 
-<a href="https://forms.gle/SKUMEmmRF1gwdRKw9" target="_blank"><button class="button-blue">Application Form</button></a>
+The Trico Libraries Digital Scholarship Group is pleased to announce the 2021 Trico Digital Scholarship Research Institute (DSRI), a program of two half-days of online workshops, discussions, and project showcases that explore interdisciplinary digital scholarship research and teaching methods. We welcome Trico faculty new to digital scholarship as well as those interested in taking their existing skills to the next level. You can expect to gain experience with fundamental digital scholarship tools and methods including navigating your computer via the command line, cleaning messy data, practicing version control, and sharing your work publicly, while also learning about support for grant opportunities and digital scholarship support networks in the Trico and beyond.
 
-**Apply by March 16th**
+The Digital Scholarship Research Institute will be hosted online on two consecutive Friday afternoons, June 4 and 11, on Zoom. Please register by March 31.
 
-The Digital Scholarship Research Institute (DSRI) is a two-day intensive institute for Tri-Co faculty to explore interdisciplinary digital scholarship research and teaching methods through hands-on workshops and guided practices. We welcome both faculty new to digital scholarship and those interested in taking their skills to the next level. You can expect to gain experience with fundamental digital scholarship tools and methods including navigating your computer via the command line, cleaning messy data, practicing version control, and sharing your work publicly, while also learning about local digital scholarship communities and support.
+We look forward to seeing you this summer! 😎
 
-### [Find out more about last year's insitute here.](2019)
+<button role="button" class="button-blue" aria-label="open submit proposal form">
+    <a href="https://forms.gle/XMzKZtCFJpSPGqeF7">Click here to register</a>
+</button>
 
-The Digital Scholarship Research Institute will be held at the renovated Lutnick Library at Haverford College from **May 4-5, 2020**. Breakfast, lunch, and snacks will be catered on both days, and a beer and wine reception with hors d'oeuvres will be provided on the second day.
-
-Because an essential aspect of the DSRI is building community among Tri-Co faculty members interested in digital scholarship, participants are expected to commit to attending the full two-day experience at Haverford College from May 4-5, 2020 and to attend all of the workshops, seminars, and events during this time.  (See childcare options provided or recommended by [Bryn Mawr](https://www.brynmawr.edu/humanresources/daycare-assistance), [Haverford](https://www.haverford.edu/sites/default/files/Office/Provost/HC-Daycare-Recommendations.pdf), and [Swarthmore](https://www.swarthmore.edu/human-resources/child-and-eldercare-resources).)
+### [Find out more about 2019's insitute here.](2019)
 
 *The DSRI is sponsored by Bryn Mawr College’s LITS, Haverford College Libraries, and Swarthmore Libraries. The Tri-Co DSRI was developed as part of the NEH-sponsored [Digital Humanities Research Institute](http://dhinstitutes.org/) hosted at the CUNY Grad Center in June 2018.*
 
