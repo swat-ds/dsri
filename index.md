@@ -5,11 +5,15 @@ id: home
 
 # **Digital Scholarship Research Institute 2021**
 
-The Trico Libraries Digital Scholarship Group is pleased to announce the 2021 Trico Digital Scholarship Research Institute (DSRI), a program of two half-days of online workshops, discussions, and project showcases that explore interdisciplinary digital scholarship research and teaching methods. We welcome Trico faculty and staff new to digital scholarship as well as those interested in taking their existing skills to the next level. You can expect to gain experience with fundamental digital scholarship tools and methods including how and why we might navigate our computers via the command line, cleaning messy data, practicing version control, and sharing your work publicly, while also learning about support for grant opportunities and digital scholarship support networks in the Trico and beyond.
+The Trico Libraries Digital Scholarship Group is pleased to announce the 2021 Trico Digital Scholarship Research Institute (DSRI), a program of two half-days of online workshops, discussions, and project showcases that explore interdisciplinary digital scholarship research and teaching methods. We welcome Trico faculty and staff new to digital scholarship as well as those interested in taking their existing skills to the next level. 
 
-The Digital Scholarship Research Institute will be hosted online on two consecutive Friday afternoons, June 4 and 11, on Zoom. Please register by Friday, April 2nd.
+During this year’s institute we will explore how (and why) to use the command line, getting digital publishing and exhibits on the web, scraping usable data from websites, and getting started with messy data in the humanities and social sciences.
 
-We look forward to seeing you this summer! 😎
+We will also discuss project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and finding our way through the maze of possible tools, services, and platforms.
+
+The Digital Scholarship Research Institute will be hosted through Zoom at 12:30pm on two consecutive Friday afternoons, June 4 and 11.
+
+Please register by **Friday, May 21st**. We look forward to seeing you this summer! 😎
 
 <button role="button" class="button-blue" aria-label="open submit proposal form">
     <a href="https://forms.gle/XMzKZtCFJpSPGqeF7">Click here to register</a>
