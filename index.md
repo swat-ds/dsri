@@ -21,12 +21,6 @@ We look forward to seeing you this summer! 😎
 
 ### [Find out more about 2019's insitute here.](2019)
 
-*The DSRI is sponsored by Bryn Mawr College’s LITS, Haverford College Libraries, and Swarthmore Libraries. The Tri-Co DSRI was developed as part of the NEH-sponsored [Digital Humanities Research Institute](http://dhinstitutes.org/) hosted at the CUNY Grad Center in June 2018.*
-
-[![digital humanities research institute logo](images/DHRI-03.svg)](http://dhinstitutes.org/)
-[![national endowment for the humanities logo](images/NEH_stacked_logo-01_full-color.jpg)](https://www.neh.gov/)
-{: .logos}
-
 ---
 
 ## Schedule
@@ -73,3 +67,9 @@ We look forward to seeing you this summer! 😎
 </div>
 {% endfor %}
 </div>
+
+*The DSRI is sponsored by Bryn Mawr College’s LITS, Haverford College Libraries, and Swarthmore Libraries. The Tri-Co DSRI was developed as part of the NEH-sponsored [Digital Humanities Research Institute](http://dhinstitutes.org/) hosted at the CUNY Grad Center in June 2018.*
+
+[![digital humanities research institute logo](images/DHRI-03.svg)](http://dhinstitutes.org/)
+[![national endowment for the humanities logo](images/NEH_stacked_logo-01_full-color.jpg)](https://www.neh.gov/)
+{: .logos}
