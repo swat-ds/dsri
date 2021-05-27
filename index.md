@@ -13,7 +13,7 @@ We will also discuss project support and grant opportunities in the Trico and be
 
 The Digital Scholarship Research Institute will be hosted through Zoom at 12:30pm on two consecutive Friday afternoons, June 4 and 11.
 
-Please register by **Friday, May 21st**. We look forward to seeing you this summer! 😎
+We look forward to seeing you this summer! 😎
 
 <button role="button" class="button-blue" aria-label="open submit proposal form">
     <a href="https://forms.gle/XMzKZtCFJpSPGqeF7">Click here to register</a>
@@ -26,6 +26,31 @@ Please register by **Friday, May 21st**. We look forward to seeing you this summ
 [![digital humanities research institute logo](images/DHRI-03.svg)](http://dhinstitutes.org/)
 [![national endowment for the humanities logo](images/NEH_stacked_logo-01_full-color.jpg)](https://www.neh.gov/)
 {: .logos}
+
+---
+
+## Schedule
+
+### **Friday, June 4, 2021**
+
+| 10:00 - 12:00 pm | [Software Installation Office Hours](https://github.com/tri-cods/install) *optional* |
+| 12:30 - 12:50 pm | Welcome! |
+| 12:50 - 2:20 pm | [Introduction to the Command Line](https://github.com/tri-cods/command-line) |
+| 2:20 - 2:35 pm | Break |
+| 2:35 - 4:05 pm | [Web Development Basics](https://github.com/tri-cods/html-css) |
+| 4:10 - 4:40 pm | Workshop Session |
+| 4:40 - 5:00 pm | Wrap-Up |
+| | |
+
+### **Friday, June 11, 2021**
+
+| 12:30 - 2:00 pm | Webscraping |
+| 2:00 - 2:15 pm | Break |
+| 2:15 - 3:45 pm | [Tidy(ish) Data](https://github.com/tri-cods/tidy-data) |
+| 3:45 - 4:00 pm | Break |
+| 4:00 - 4:40 pm | Lightning Talks |
+| 4:40 - 5:00 pm | Wrap-Up |
+| | |
 
 ---
 
