@@ -4,13 +4,6 @@ andy:
   image: janco.jpeg
   school: haverford
 
-# jessica:
-#   name: Jessica Linker
-#   bio: is the CLIR Humanities and Digital Scholarship Postdoctoral Fellow at Bryn Mawr College. She received her Ph.D. in History from the University of Connecticut, and her MA in History from Brown University. At Wellesley College, she majored in History and minored in Computer Science. She has worked on a number of digital projects and initiatives, the most recent being the Provenance Online Project and The Encyclopedia of Greater Philadelphia. 
-#   image: linker.jpg
-#   school: brynmawr
-
-
 nabil:
   name: Nabil Kashyap
   bio: is the Digital Scholarship Librarian at Swarthmore College. As developer, designer, and project manager, his work has ranged from radical digital archives to participatory computational linguistics. He is increasingly involved in student programs and projects that bridge critical and technical pedagogy. He holds an MSI from the University of Michigan and an MFA from the University of Montana.
@@ -22,12 +15,6 @@ alice:
   bio: is the Digital Scholarship Specialist at Bryn Mawr College. She  earned her Ph.D. in English from the University of Pennsylvania, specializing in eighteenth-century British literature and gender and sexuality studies. Before coming to Bryn Mawr in 2019, she was the Postdoctoral Fellow for Accessibility at Penn Libraries, where she helped develop the Accessibility Mapping Project and served as research coordinator for the Early Novels Database.
   image: mcgrath.jpeg
   school: brynmawr
-
-# alicia:
-#   name: Alicia Peaker
-#   bio: 'is the Director of Digital Scholarship, Critical Making, and Digital Collections Management at Bryn Mawr College. Alicia Peaker received her Ph.D. in English from Northeastern University and completed a postdoctoral fellowship in the Digital Liberal Arts at Middlebury College. She has also worked as the Co-Director for Our Marathon: The Boston Bombing Digital Archive, the Project Manager for the Women Writers Project, and the Managing & Development Editor for GradHacker at InsideHigherEd.'
-#   image: peaker.png
-#   school: brynmawr
 
 roberto:
   name: Roberto Vargas
