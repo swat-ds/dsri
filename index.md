@@ -15,11 +15,13 @@ The Digital Scholarship Research Institute will be hosted through Zoom at 12:30p
 
 We look forward to seeing you this summer! 😎
 
-<button role="button" class="button-blue" aria-label="open submit proposal form">
+<!-- <button role="button" class="button-blue" aria-label="open submit proposal form">
     <a href="https://forms.gle/XMzKZtCFJpSPGqeF7">Click here to register</a>
-</button>
+</button> -->
 
-### [Find out more about 2019's insitute here.](2019)
+### Find out more about past institutes
+- [2019 Institute at Bryn Mawr College](2019)
+- [2021 Institute (Zoom)](2021)
 
 ---
 
