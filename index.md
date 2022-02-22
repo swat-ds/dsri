@@ -3,7 +3,7 @@ layout: page
 id: home
 ---
 
-# **Digital Scholarship Research Institute 2021**
+# **Digital Scholarship Research Institute 2022**
 
 The Trico Libraries Digital Scholarship Group is pleased to announce the 2022 Trico Digital Scholarship Research Institute (DSRI), a one-day program of workshops, discussions, and project showcases that explore interdisciplinary digital scholarship research and teaching methods. We welcome Trico faculty and staff new to digital scholarship as well as those interested in taking their existing skills to the next level. 
 

@@ -4,9 +4,9 @@ andy:
   image: janco.jpeg
   school: haverford
 
-james:
-  name: James Truitt
-  school: swarthmore
+# james:
+#   name: James Truitt
+#   school: swarthmore
   
 alice:
   name: Alice McGrath
