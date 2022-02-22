@@ -4,10 +4,8 @@ andy:
   image: janco.jpeg
   school: haverford
 
-nabil:
-  name: Nabil Kashyap
-  bio: is the Digital Scholarship Librarian at Swarthmore College. As developer, designer, and project manager, his work has ranged from radical digital archives to participatory computational linguistics. He is increasingly involved in student programs and projects that bridge critical and technical pedagogy. He holds an MSI from the University of Michigan and an MFA from the University of Montana.
-  image: kashyap.jpeg
+james:
+  name: James Truitt
   school: swarthmore
   
 alice:
@@ -22,9 +20,4 @@ roberto:
   image: vargas.jpg
   school: swarthmore
 
-mike:
-  name: Mike Zarafonetis
-  bio: is the Coordinator for Digital Scholarship and Research Services at Haverford College. He earned his PhD in History from Auburn University and B.A. from Kalamazoo College, where he majored in Computer Science. At Haverford, he coordinates a digital scholarship program in the library that partners with Haverford faculty, students, and staff to create scholarship informed and shaped by digital tools and methods. He also teaches in the Museum Studies program at the University of Delaware. In his spare time, he enjoys cooking, deadlifts, video games, and spending time with his dog.
-  image: zarafonetis.jpg
-  school: haverford
   

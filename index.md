@@ -5,13 +5,11 @@ id: home
 
 # **Digital Scholarship Research Institute 2021**
 
-The Trico Libraries Digital Scholarship Group is pleased to announce the 2021 Trico Digital Scholarship Research Institute (DSRI), a program of two half-days of online workshops, discussions, and project showcases that explore interdisciplinary digital scholarship research and teaching methods. We welcome Trico faculty and staff new to digital scholarship as well as those interested in taking their existing skills to the next level. 
+The Trico Libraries Digital Scholarship Group is pleased to announce the 2022 Trico Digital Scholarship Research Institute (DSRI), a one-day program of workshops, discussions, and project showcases that explore interdisciplinary digital scholarship research and teaching methods. We welcome Trico faculty and staff new to digital scholarship as well as those interested in taking their existing skills to the next level. 
 
-During this year’s institute we will explore how (and why) to use the command line, getting digital publishing and exhibits on the web, scraping usable data from websites, and getting started with messy data in the humanities and social sciences.
+During this year’s institute, participants will gain experience with fundamental digital scholarship tools and methods (schedule TBD). We will also discuss project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and finding our way through the maze of possible tools, services, and platforms.
 
-We will also discuss project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and finding our way through the maze of possible tools, services, and platforms.
-
-The Digital Scholarship Research Institute will be hosted through Zoom at 12:30pm on two consecutive Friday afternoons, June 4 and 11.
+The Digital Scholarship Research Institute will be hosted at Haverford College on Monday, May 2.
 
 We look forward to seeing you this summer! 😎
 
@@ -23,34 +21,15 @@ We look forward to seeing you this summer! 😎
 - [2019 Institute at Bryn Mawr College](2019)
 - [2021 Institute (Zoom)](2021)
 
+<!--
 ---
 
 ## Schedule
 
-### **Friday, June 4, 2021**
-
-| 10:00 - 12:00 pm | [Software Installation Office Hours](https://github.com/tri-cods/install) *optional* |
-| 12:30 - 12:50 pm | Welcome! |
-| 12:50 - 2:20 pm | [Introduction to the Command Line](https://github.com/tri-cods/command-line) |
-| 2:20 - 2:35 pm | Break |
-| 2:35 - 4:05 pm | [Web Development Basics](https://github.com/tri-cods/html-css) |
-| 4:10 - 4:40 pm | Workshop Session |
-| 4:40 - 5:00 pm | Wrap-Up |
-| | |
-
-### **Friday, June 11, 2021**
-
-| 12:30 - 2:00 pm | Webscraping |
-| 2:00 - 2:15 pm | Break |
-| 2:15 - 3:45 pm | [Tidy(ish) Data](https://github.com/tri-cods/tidy-data) |
-| 3:45 - 4:00 pm | Break |
-| 4:00 - 4:40 pm | Lightning Talks |
-| 4:40 - 5:00 pm | Wrap-Up |
-| | |
-
 ---
+-->
 
-## Course Instructors
+## Instruction team
 
 <div class="contributors-gallery">
 {% assign contributors = site.data.contributors %}
