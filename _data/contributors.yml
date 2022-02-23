@@ -4,9 +4,11 @@ andy:
   image: janco.jpeg
   school: haverford
 
-# james:
-#   name: James Truitt
-#   school: swarthmore
+james:
+  name: James Truitt
+  bio: is the Senior Archives Technician at Friends Historical Library of Swarthmore College. He currently leads Friendly Networks, a project that explores social and textual relationships between early Quakers, and previously worked on digitizing archival material on women's activism. He is interested in digitization as a tool for allowing wider access to historical documents. In his spare time, he enjoys gardening and breadmaking.
+  image: truitt.jpg
+  school: swarthmore
   
 alice:
   name: Alice McGrath
