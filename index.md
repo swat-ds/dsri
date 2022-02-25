@@ -7,19 +7,18 @@ id: home
 
 The Trico Libraries Digital Scholarship Group is pleased to announce the 2022 Trico Digital Scholarship Research Institute (DSRI), a one-day program of workshops, discussions, and project showcases that explore interdisciplinary digital scholarship research and teaching methods. We welcome Trico faculty and staff new to digital scholarship as well as those interested in taking their existing skills to the next level. 
 
-During this year’s institute, participants will gain experience with fundamental digital scholarship tools and methods (schedule TBD). We will also discuss project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and finding our way through the maze of possible tools, services, and platforms.
+Participants in this year’s institute will not only gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research.
 
-The Digital Scholarship Research Institute will be hosted at Haverford College on Monday, May 2.
+The Digital Scholarship Research Institute will be hosted at Haverford College on **Monday, May 2, 2022**. Please register by March 15. We look forward to seeing you this summer! 😎
 
-We look forward to seeing you this summer! 😎
+<button role="button" class="button-blue" aria-label="open registration form">
+    <a href="https://forms.gle/mAaLsi4k6eoFZ4di9">Click here to register</a>
+</button>
 
-<!-- <button role="button" class="button-blue" aria-label="open submit proposal form">
-    <a href="https://forms.gle/XMzKZtCFJpSPGqeF7">Click here to register</a>
-</button> -->
+### Past institutes
 
-### Find out more about past institutes
+- [2021 Institute held remotely](2021)
 - [2019 Institute at Bryn Mawr College](2019)
-- [2021 Institute (Zoom)](2021)
 
 <!--
 ---
