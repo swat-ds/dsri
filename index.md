@@ -3,23 +3,23 @@ layout: page
 id: home
 ---
 
-# **Digital Scholarship Research Institute 2022**
+# About DSRI
 
-**NB: the Institute previously scheduled for May 2, 2022 has been postponed to October 11, 2022**
+The TriCo Digital Scholarship Research Institute is an intensive, cohort-based learning program developed and taught by the TriCo Libraries Digital Scholarship Group. Over the course of two days of workshops, discussions, and project showcases, participants gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research. All TriCo faculty and staff are welcome to apply, whether they are new to digital scholarship or interested in taking existing skills to the next level.
 
-The Trico Libraries Digital Scholarship Group is pleased to announce the 2022 Trico Digital Scholarship Research Institute (DSRI), a one-day program of workshops, discussions, and project showcases that explore interdisciplinary digital scholarship research and teaching methods. We welcome Trico faculty and staff new to digital scholarship as well as those interested in taking their existing skills to the next level. 
 
-Participants in this year’s institute will not only gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research.
+### Updates
 
-The Digital Scholarship Research Institute will be hosted at Haverford College on **October 11, 2022**. Registration details will be available soon.
+Due to staffing issues, the 2022 Institute has been cancelled.  Stay tuned for an announcement about the next institute to take place in Spring 2023. 
+
+TriCo DS will be hosting a get-together for faculty and staff on **December 8, 2022** (4:30-6:00 PM). It's an opportunity to learn about current projects and programs (including the DSRI) and get to know the librarians and technologists who support digital scholarship at Bryn Mawr, Haverford, and Swarthmore. 
+
+<button role="button" class="button-blue" aria-label="open registration form">
+    <a href="https://forms.gle/En41yVdMQ5HJDWtZA">RSVP here</a>
+</button> 
 
 Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
 
-
-
-<!-- <button role="button" class="button-blue" aria-label="open registration form">
-    <a href="https://forms.gle/mAaLsi4k6eoFZ4di9">Click here to register</a>
-</button> -->
 
 ### Past institutes
 
@@ -34,7 +34,7 @@ Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
 ---
 -->
 
-## Instruction team
+## Team
 
 <div class="contributors-gallery">
 {% assign contributors = site.data.contributors %}
