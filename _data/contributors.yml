@@ -1,4 +1,9 @@
-  
+patty:
+  name: Patty Guardiola
+  bio: is Associate Librarian and Coordinator of Research, Instruction, and Digital Scholarship Services at Haverford College. Patty has experience from public and academic libraries, as well as a background in art, architecture, and design librarianship. Patty is interested in conversations across disciplines related to the pedagogy, planning, and sustainability of digital projects, and research, instruction, and outreach endeavors.  image:
+  image: guardiola.jpg
+  school: haverford
+
 alice:
   name: Alice McGrath
   bio: is a Senior Digital Scholarship Specialist at Bryn Mawr College, where she supports a wide array of research methods and projects ranging from 3D modeling to GIS to data curation, computational text analysis, digital exhibitions, and more. She earned her Ph.D. in English literature from Penn, specializing in 18th-century British literature and queer experiments in narrative form; her current interests include collections as data, accessibility and universal design, and the aleatory discoveries made possible by digital research.
@@ -8,7 +13,7 @@ alice:
 james:
   name: James Truitt
   bio: is the Senior Archives Technician at Friends Historical Library of Swarthmore College. He currently leads Friendly Networks, a project that explores social and textual relationships between early Quakers, and previously worked on digitizing archival material on women's activism. He is interested in digitization as a tool for allowing wider access to historical documents. In his spare time, he enjoys gardening and breadmaking.
-  image: truitt.jpg
+  image: truitt.jpeg
   school: swarthmore
 
 rroberto:
