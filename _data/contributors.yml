@@ -4,6 +4,18 @@ patty:
   image: guardiola.jpg
   school: haverford
 
+anna:
+  name: Anna Lacy
+  bio: Anna Lacy is the Digital Scholarship Librarian at Haverford College. Anna has experience working on community-engaged digital history projects and a background in History. She holds a B.A. in History from Stockton University, an M.A. in History with a certificate in Museum Studies from the University of Delaware, and is a Ph.D. candidate in History at the University of Delaware. 
+  image: anna.jpeg
+  school: haverford
+
+amanda:
+  name: Amanda Licastro
+  bio:  is the Digital Scholarship Librarian at Swarthmore College, the pedagogical director of the Book Traces project, and is an Andrew W. Mellon Junior Fellow in Critical Bibliography. Amanda serves on the editorial collective of the Journal of Interactive Technology and Pedagogy and is the Chair of the Committee on Digital Humanities for the Modern Language Association. Her research explores the intersection of technology and writing, including book history, dystopian literature, and digital humanities. Composition and Big Data, her collection co-edited with Ben Miller, was published by the University of Pittsburgh Press in September 2021, and you can find her work in journals such as Communication Design Quarterly, Hybrid Pedagogy and Kairos, as well as collections such as Critical Digital Pedagogy and Digital Reading and Writing in Composition Studies.
+  image: amanda.png
+  school: swarthmore
+
 alice:
   name: Alice McGrath
   bio: is a Senior Digital Scholarship Specialist at Bryn Mawr College, where she supports a wide array of research methods and projects ranging from 3D modeling to GIS to data curation, computational text analysis, digital exhibitions, and more. She earned her Ph.D. in English literature from Penn, specializing in 18th-century British literature and queer experiments in narrative form; her current interests include collections as data, accessibility and universal design, and the aleatory discoveries made possible by digital research.
@@ -16,9 +28,9 @@ james:
   image: truitt.jpeg
   school: swarthmore
 
-rroberto:
+roberto:
   name: Roberto Vargas
-  bio: is the Interim Head of Research & Instruction and the Research Librarian for Humanities + Interdisciplinary Studies at Swarthmore College. He is also responsible for supporting, developing and maintaining digital scholarship projects. Originally from Ciudad Juarez, Mexico and now residing in Philadelphia, he moves from English to Spanish on a daily basis and from Mexico to the US regularly. He is interested in the careful and ethical use of technology.
+  bio: is the Head of Research & Instruction and the Research Librarian for Humanities + Interdisciplinary Studies at Swarthmore College. He is also responsible for supporting, developing and maintaining digital scholarship projects in collabroation with the Digital Scholarship Librarian. He commutes to work on his bike enjoying Philly and its surroundings in the very early dark mornings and slightly less in the traffic-heavy journey home. He enjoys reading anything by Stuart Hall and Eric Hobsbawm.
   image: vargas.jpg
   school: swarthmore
 
