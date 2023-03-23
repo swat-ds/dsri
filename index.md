@@ -17,7 +17,7 @@ Breakfast, lunch, and snacks will be catered on both days, and a beer and wine r
 
 Because an essential aspect of the DSRI is building community among Tri-Co faculty members interested in digital scholarship, participants are expected to commit to attending the full two-day experience and to attend all of the workshops, seminars, and events during this time. 
 
-Space is limited, so please register by April 1, 2023.
+Space is limited, so please register by April 3, 2023.
 
 <button role="button" class="button-blue" aria-label="open registration form">
     <a href="https://forms.gle/3c81yJGNm9XuYvB68">RSVP here</a>
