@@ -25,9 +25,34 @@ Space is limited, so please register by April 3, 2023.
 
 Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
 
+
 ---
 
-## DSRI 2023 Schedule TBD
+## DSRI 2023 Schedule
+### **Day 1**
+
+| 9:00 - 9:45 pm | Introductions, overview, [installations](https://github.com/tri-cods/install) (Breakfast)  |
+| 9:45-10:30 am | HTML & CSS I|
+| 10:30 - 10:45 | Break |
+| 10:45 - 12:00 pm | HTML & CSS  II |
+| 12:00 - 1:15 | Lunch |
+| 1:15 - 2:30 | Tidy data, part I |
+| 2:30 - 2:45 | Break |
+| 2:45 - 3:45 | Tidy data, part II |
+| 3:45 - 5:00 | Lightning round/happy hour |
+
+
+### **Day 2**
+
+| 8:45 - 9:00 am | Breakfast |
+| 9:00 - 9:30 | Introductions & Overview |
+| 9:30 - 10:45 | OpenAI Part I |
+| 10:45 - 11:00 | Break |
+| 11:00 - 12:15pm | OpenAI Part II |
+| 12:15 - 1:30 | Lunch |
+| 1:30 - 2:00 | Wrap-up & Feedback Form |
+
+---
 
 ---
 
