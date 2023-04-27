@@ -32,13 +32,13 @@ Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
 ### **Day 1**
 
 | 9:00 - 9:45 pm | Introductions, overview, [installations](https://github.com/tri-cods/install) (Breakfast)  |
-| 9:45-10:30 am | HTML & CSS I|
+| 9:45-10:30 am | [HTML & CSS I](https://github.com/tri-cods/html-css)|
 | 10:30 - 10:45 | Break |
-| 10:45 - 12:00 pm | HTML & CSS  II |
+| 10:45 - 12:00 pm | [HTML & CSS  II](https://github.com/tri-cods/html-css) |
 | 12:00 - 1:15 | Lunch |
-| 1:15 - 2:30 | Tidy data, part I |
+| 1:15 - 2:30 | [Tidy data, part I](https://github.com/tri-cods/tidy-data) |
 | 2:30 - 2:45 | Break |
-| 2:45 - 3:45 | Tidy data, part II |
+| 2:45 - 3:45 | [Tidy data, part II](https://github.com/tri-cods/tidy-data) |
 | 3:45 - 5:00 | Lightning round/happy hour |
 
 
