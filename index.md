@@ -34,7 +34,7 @@ The TriCo Digital Scholarship Research Institute is an intensive, cohort-based l
 | 1:30 - 2:00 | Wrap-up & Feedback Form |
 
 ---
-### DSRI 2023
+
 **Where** The Digital Scholarship Research Institute will be hosted in the newly renovated Lutnick Library at Haverford College 
 
 **When** May 2-3, 2023. Workshops and events will be held 9:00 A.M. - 5:00 P.M. on May 2nd, and 9:00 A.M. - 2:30 P.M. on May 3rd.  
