@@ -9,48 +9,25 @@ The TriCo Digital Scholarship Research Institute is an intensive, cohort-based l
 
 ---
 
-## DSRI 2023 Schedule
-### **Day 1**
+## DSRI 2024 
 
-| 9:00 - 9:45 pm | Introductions, overview, [installations](https://github.com/tri-cods/install) (Breakfast)  |
-| 9:45-10:30 am | [HTML & CSS I](https://github.com/tri-cods/html-css)|
-| 10:30 - 10:45 | Break |
-| 10:45 - 12:00 pm | [HTML & CSS  II](https://github.com/tri-cods/html-css) |
-| 12:00 - 1:15 | Lunch |
-| 1:15 - 2:30 | [Tidy data, part I](https://github.com/tri-cods/tidy-data) |
-| 2:30 - 2:45 | Break |
-| 2:45 - 3:45 | [Tidy data, part II](https://github.com/tri-cods/tidy-data) |
-| 3:45 - 5:00 | Lightning round/happy hour |
+**Where** The Digital Scholarship Research Institute will be hosted at Bryn Mawr College in Benham Gateway Conference Center.
 
+**When** Tuesday, May 7, 2024. Workshops and events will be held 9:00 A.M. - 5:00 P.M..  
 
-### **Day 2**
+Breakfast, lunch, snacks, and a beer and wine reception with hors d'oeuvres will be provided.
 
-| 8:45 - 9:00 am | Breakfast |
-| 9:00 - 9:30 | Introductions & Overview |
-| 9:30 - 10:45 | [OpenAI Part I](https://github.com/tri-cods/ai) |
-| 10:45 - 11:00 | Break |
-| 11:00 - 12:15pm | [OpenAI Part II](https://github.com/tri-cods/ai) |
-| 12:15 - 1:30 | Lunch |
-| 1:30 - 2:00 | Wrap-up & Feedback Form |
+This year's workshops will include "Web Publishing with GitHub Pages" and "Desigining Digital Scholarship Assignments" (workshop descriptions coming soon.)
 
----
+Because an essential aspect of the DSRI is building community among Tri-Co faculty members interested in digital scholarship, we ask that participants commit to attending the full day of workshops and events. 
 
-**Where** The Digital Scholarship Research Institute will be hosted in the newly renovated Lutnick Library at Haverford College 
-
-**When** May 2-3, 2023. Workshops and events will be held 9:00 A.M. - 5:00 P.M. on May 2nd, and 9:00 A.M. - 2:30 P.M. on May 3rd.  
-
-Breakfast, lunch, and snacks will be catered on both days, and a beer and wine reception with hors d'oeuvres will be provided on the first day.
-
-Because an essential aspect of the DSRI is building community among Tri-Co faculty members interested in digital scholarship, participants are expected to commit to attending the full two-day experience and to attend all of the workshops, seminars, and events during this time. 
-
-Space is limited, so please register by April 3, 2023.
+Space is limited, so please register by April 1, 2024.
 
 <button role="button" class="button-blue" aria-label="open registration form">
-    <a href="https://forms.gle/3c81yJGNm9XuYvB68">RSVP here</a>
+    <a href="https://forms.gle/KoeRRJET8tnF4U3R8">RSVP here</a>
 </button> 
 
-Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
----
+### Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
 
 
 ## Team
@@ -75,6 +52,7 @@ Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
 
 ### Past institutes
 
+- [2023 Institute at Haverford College](2023)
 - [2021 Institute held remotely](2021)
 - [2019 Institute at Bryn Mawr College](2019)
 
