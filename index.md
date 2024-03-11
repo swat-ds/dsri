@@ -17,7 +17,7 @@ The TriCo Digital Scholarship Research Institute is an intensive, cohort-based l
 
 Breakfast, lunch, snacks, and a beer and wine reception with hors d'oeuvres will be provided.
 
-This year's workshops will include "Web Publishing with GitHub Pages" and "Desigining Digital Scholarship Assignments" (workshop descriptions coming soon.)
+This year's workshops will include "Web Publishing with GitHub Pages" and "Desigining Digital Scholarship Assignments" (see below for descriptions).
 
 Because an essential aspect of the DSRI is building community among Tri-Co faculty members interested in digital scholarship, we ask that participants commit to attending the full day of workshops and events. 
 
@@ -27,7 +27,18 @@ Space is limited, so please register by April 1, 2024.
     <a href="https://forms.gle/KoeRRJET8tnF4U3R8">RSVP here</a>
 </button> 
 
-### Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
+### Workshops
+
+#### Web Publishing with GitHub Pages
+
+GitHub Pages is a popular, free option for publishing static websites. This workshop will introduce participants to the Github Pages ecosystem – including git, markdown, the GitHub platform, and a bit of html and css – and explore why it may be a good option for a personal website or digital project. We’ll also discuss some of the social and environmental considerations at play when choosing web platforms, and why static sites are faster, more sustainable, and more secure than sites created by content management systems (such as WordPress or Google Sites). Participants will also gain hands-on experience publishing, editing, and customizing a GitHub Pages site.
+
+#### Designing Digital Scholarship Assignments
+
+What is digital scholarship and what can it do in the classroom? This workshop will demonstrate how to plan and execute student-centered digital scholarship assignments from scaffolding to assessment. We will introduce a suite of easy-to-learn tools that students can use to build interactive and engaging digital projects, while emphasizing the critical evaluation of both the tools and public-facing products (for example, digital exhibits/timelines, interactive maps, and multimodal publications). We will discuss models for planning, providing feedback, and assessing digital scholarship assignments.
+
+
+#### Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
 
 
 ## Team
