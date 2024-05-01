@@ -42,9 +42,6 @@ GitHub Pages is a popular, free option for publishing static websites. This work
 
 What is digital scholarship and what can it do in the classroom? This workshop will demonstrate how to plan and execute student-centered digital scholarship assignments from scaffolding to assessment. We will introduce a suite of easy-to-learn tools that students can use to build interactive and engaging digital projects, while emphasizing the critical evaluation of both the tools and public-facing products (for example, digital exhibits/timelines, interactive maps, and multimodal publications). We will discuss models for planning, providing feedback, and assessing digital scholarship assignments.
 
-#### Questions? Email Alice McGrath at amcgrath1@brynmawr.edu
-
-
 ## Team
 
 <div class="contributors-gallery">

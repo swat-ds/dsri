@@ -1,6 +1,6 @@
 ---
 layout: page
-id: home
+id: call
 ---
 
 ## DSRI 2024 
