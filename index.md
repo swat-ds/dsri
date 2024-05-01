@@ -5,22 +5,23 @@ id: home
 
 # 2024 Institute at Bryn Mawr College
 
-**Tuesday, May 7, 2024; Benham Gateway Conference Center**
+**Tuesday, May 7, 2024, Benham Gateway Conference Center**
+
 
 Now in its 4th iteration, the TriCo Digital Scholarship Research Institute is an intensive, cohort-based learning program developed and taught by the TriCo Libraries Digital Scholarship Group. Through instensive workshops, discussions, and project showcases, participants gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research.
 
 ## Schedule
 
-| 8:45 - 9:15 am | Introductions, overview (Breakfast)  |
-| 9:45-10:30 am | [Web Publishing with GitHub Pages I](https://github.com/tri-cods/github-pages)|
-| 10:30 - 10:45 | Break |
+| 8:45 - 9:15 am | Introductions, overview, breakfast  |
+| 9:15 - 10:30 am | [Web Publishing with GitHub Pages I](https://github.com/tri-cods/github-pages)|
+| 10:30 - 10:45 am | Break |
 | 10:45 - 12:00 pm | [Web Publishing with GitHub Pages II](https://github.com/tri-cods/github-pages) |
-| 12:00 - 1:15 pm | Lunch |
+| 12:00 - 1:15 pm | Lunch (at Wyndham Terrace) |
 | 1:15 - 2:30 pm | [Designing Digital Scholarship Assignments I](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing) |
-| 2:30 - 2:45 pm | Break |
+| 2:30 - 2:45 pm | Break with refreshments |
 | 2:45 - 4:00 pm | [Designing Digital Scholarship Assignments II](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing) |
 | 4:00 - 4:30 pm | Lightning Presentations |
-| 4:30 - 5:00 pm | Happy Hour |
+| 4:30 - 5:00 pm | Happy Hour (at the Sunken Garden) |
 
 ## Workshops
 
