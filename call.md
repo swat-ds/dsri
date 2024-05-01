@@ -2,6 +2,9 @@
 layout: page
 id: call
 ---
+# About
+
+The TriCo Digital Scholarship Research Institute is an intensive, cohort-based learning program developed and taught by the TriCo Libraries Digital Scholarship Group. Over the course of two days of workshops, discussions, and project showcases, participants gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research. All TriCo faculty and staff are welcome to apply, whether they are new to digital scholarship or interested in taking existing skills to the next level.
 
 ## DSRI 2024 
 

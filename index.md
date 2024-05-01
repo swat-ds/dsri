@@ -3,42 +3,34 @@ layout: page
 id: home
 ---
 
-# About DSRI
+# 2024 Institute at Bryn Mawr College
 
-The TriCo Digital Scholarship Research Institute is an intensive, cohort-based learning program developed and taught by the TriCo Libraries Digital Scholarship Group. Over the course of two days of workshops, discussions, and project showcases, participants gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research. All TriCo faculty and staff are welcome to apply, whether they are new to digital scholarship or interested in taking existing skills to the next level.
+**Tuesday, May 7, 2024; Benham Gateway Conference Center**
 
----
+Now in its 4th iteration, the TriCo Digital Scholarship Research Institute is an intensive, cohort-based learning program developed and taught by the TriCo Libraries Digital Scholarship Group. Through instensive workshops, discussions, and project showcases, participants gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research.
 
-## 2024 Institute
-
-Tuesday, May 7, 2024
-
-Bryn Mawr College
-
-Benham Gateway Conference Center
-
-### Schedule
+## Schedule
 
 | 8:45 - 9:15 am | Introductions, overview (Breakfast)  |
 | 9:45-10:30 am | [Web Publishing with GitHub Pages I](https://github.com/tri-cods/github-pages)|
 | 10:30 - 10:45 | Break |
 | 10:45 - 12:00 pm | [Web Publishing with GitHub Pages II](https://github.com/tri-cods/github-pages) |
-| 12:00 - 1:15 | Lunch |
-| 1:15 - 2:30 | [Designing Digital Scholarship Assignments I](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing) |
-| 2:30 - 2:45 | Break |
-| 2:45 - 4:00 | [Designing Digital Scholarship Assignments II](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing) |
+| 12:00 - 1:15 pm | Lunch |
+| 1:15 - 2:30 pm | [Designing Digital Scholarship Assignments I](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing) |
+| 2:30 - 2:45 pm | Break |
+| 2:45 - 4:00 pm | [Designing Digital Scholarship Assignments II](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing) |
 | 4:00 - 4:30 pm | Lightning Presentations |
 | 4:30 - 5:00 pm | Happy Hour |
 
-### Workshops
+## Workshops
 
-#### [Web Publishing with GitHub Pages](https://github.com/tri-cods/github-pages)
+### [Web Publishing with GitHub Pages](https://github.com/tri-cods/github-pages)
 
 *Alice McGrath (BMC) and Roberto Vargas (SC)*
 
 GitHub Pages is a popular, free option for publishing static websites. This workshop will introduce participants to the Github Pages ecosystem – including git, markdown, the GitHub platform, and a bit of html and css – and explore why it may be a good option for a personal website or digital project. We’ll also discuss some of the social and environmental considerations at play when choosing web platforms, and why static sites are faster, more sustainable, and more secure than sites created by content management systems (such as WordPress or Google Sites). Participants will also gain hands-on experience publishing, editing, and customizing a GitHub Pages site.
 
-#### [Designing Digital Scholarship Assignments](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing)
+### [Designing Digital Scholarship Assignments](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing)
 
 *Patty Guardiola (HC), Anna Lacy (HC) and Amanda Licastro (SC)*
 
