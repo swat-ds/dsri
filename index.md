@@ -3,6 +3,13 @@ layout: page
 id: home
 ---
 
+
+# **2025 Institute at Haveford College**
+
+# **Schedule coming soon. See last year's program below.**
+
+-----------------------------
+
 # 2024 Institute at Bryn Mawr College
 
 **Tuesday, May 7, 2024, Benham Gateway Conference Center**
