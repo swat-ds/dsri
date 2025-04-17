@@ -6,43 +6,36 @@ id: home
 
 # **2025 Institute at Haveford College**
 
-# **Schedule coming soon. See last year's program below.**
 
------------------------------
-
-# 2024 Institute at Bryn Mawr College
-
-**Tuesday, May 7, 2024, Benham Gateway Conference Center**
+**Tuesday, May 6, 2025, at Haverford College**
 
 
-Now in its 4th iteration, the TriCo Digital Scholarship Research Institute is an intensive, cohort-based learning program developed and taught by the TriCo Libraries Digital Scholarship Group. Through instensive workshops, discussions, and project showcases, participants gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research.
+Now in its 5th iteration, the TriCo Digital Scholarship Research Institute is an intensive, cohort-based learning program developed and taught by the TriCo Libraries Digital Scholarship Group. Through instensive workshops, discussions, and project showcases, participants gain experience with fundamental digital scholarship tools and methods but also explore project support and grant opportunities in the Trico and beyond, crafting potential projects and digital assignments, and wayfinding through the maze of possible tools, services, and platforms for digital research.
+
+Space is limited, so please register using the [DSRI 2025 Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd9NNF2s4BeRVQaTVwFFpEWxOLpEaPqMjWgFZoi34UEQXoSyg/viewform). If you have any questions about the Institute or registration process, please contact Anna Lacy (alacy@haverford.edu). 
 
 ## Schedule
 
 | 8:45 - 9:15 am | Introductions, overview, breakfast  |
-| 9:15 - 10:30 am | [Web Publishing with GitHub Pages I](https://github.com/tri-cods/github-pages)|
+| 9:15 - 10:30 am | Introduciton to Python|
 | 10:30 - 10:45 am | Break |
-| 10:45 - 12:00 pm | [Web Publishing with GitHub Pages II](https://github.com/tri-cods/github-pages) |
-| 12:00 - 1:15 pm | Lunch (at Wyndham Terrace) |
-| 1:15 - 2:30 pm | [Designing Digital Scholarship Assignments I](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing) |
+| 10:45 - 12:00 pm | Introduciton to Python...continued|
+| 12:00 - 1:15 pm | Lunch |
+| 1:15 - 2:30 pm | Working with AI tools |
 | 2:30 - 2:45 pm | Break with refreshments |
-| 2:45 - 4:00 pm | [Designing Digital Scholarship Assignments II](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing) |
+| 2:45 - 4:00 pm | Working with AI tools |
 | 4:00 - 4:30 pm | Lightning Presentations |
-| 4:30 - 5:00 pm | Happy Hour (at the Sunken Garden) |
+| 4:30 - 5:00 pm | Happy Hour |
 
 ## Workshops
 
-### [Web Publishing with GitHub Pages](https://github.com/tri-cods/github-pages)
+### Introduction to Python
+Python is a powerful and versatile programming language used widely for data analysis, web development, machine learning, and more.  In this workshop, we’ll explore the basics of Python programming by analyzing [metadata about novels](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html) – titles, authors, publication years, languages, genres, and more. We’ll work with both numerical and textual data, learning how to clean, organize, and analyze information using Python. We’ll then shift our focus toward textual analysis exploring patterns and word frequencies across individual novels.  Finally, we’ll discuss how to visualize and communicate our findings in accessible and compelling ways. 
 
-*Alice McGrath (BMC) and Roberto Vargas (SC)*
 
-GitHub Pages is a popular, free option for publishing static websites. This workshop will introduce participants to the Github Pages ecosystem – including git, markdown, the GitHub platform, and a bit of html and css – and explore why it may be a good option for a personal website or digital project. We’ll also discuss some of the social and environmental considerations at play when choosing web platforms, and why static sites are faster, more sustainable, and more secure than sites created by content management systems (such as WordPress or Google Sites). Participants will also gain hands-on experience publishing, editing, and customizing a GitHub Pages site.
 
-### [Designing Digital Scholarship Assignments](https://docs.google.com/document/d/15z97WMthPk5OMN3SFgOhAT8oh9Pj-JXU2HDMRlEr4i8/edit?usp=sharing)
-
-*Patty Guardiola (HC), Anna Lacy (HC) and Amanda Licastro (SC)*
-
-What is digital scholarship and what can it do in the classroom? This workshop will demonstrate how to plan and execute student-centered digital scholarship assignments from scaffolding to assessment. We will introduce a suite of easy-to-learn tools that students can use to build interactive and engaging digital projects, while emphasizing the critical evaluation of both the tools and public-facing products (for example, digital exhibits/timelines, interactive maps, and multimodal publications). We will discuss models for planning, providing feedback, and assessing digital scholarship assignments.
+### Working with AI Tools 
+This course is open to all practitioners, from beginners to experienced users, who are interested in learning more about how to evaluate, integrate, and understand generative AI tools and their applications in higher education. The session will start with an overview of the ethical implications of using AI, leading to a demonstration of generative AI tools supported by the Tri-Co, and then we will end with an exploration of an open-source project called AITK (for the Artificial Intelligence Toolkit). This [github project](https://github.com/ArtificialIntelligenceToolkit/aitk) contains both Python libraries and computational essays (Jupyter notebooks) that together are designed to allow a diverse audience with little or no background in AI to interact with a variety of AI tools, exploring in more depth how they function, visualizing their outcomes, and gaining a better understanding of their ethical implications. These notebooks have been piloted at multiple institutions in a variety of humanities courses centered on the theme of responsible AI. Our goal, in this time of rapid innovations in AI, is for AITK to provide an accessible resource for faculty from any discipline looking to incorporate AI topics into their courses.
 
 ## Team
 
