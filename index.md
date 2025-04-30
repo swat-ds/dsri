@@ -17,9 +17,15 @@ Space is limited, so please register using the [DSRI 2025 Registration Form](htt
 ## Schedule
 
 | 8:45 - 9:15 am | Introductions, overview, breakfast  |
+<<<<<<< HEAD
 | 9:15 - 10:30 am | Working with AI tools|
 | 10:30 - 10:45 am | Break |
 | 10:45 - 12:00 pm | Working with AI tools |
+=======
+| 9:15 - 10:30 am | Introduction to Python|
+| 10:30 - 10:45 am | Break |
+| 10:45 - 12:00 pm | Introduction to Python...continued|
+>>>>>>> a468f99 (fixes grammar errors)
 | 12:00 - 1:15 pm | Lunch |
 | 1:15 - 2:30 pm | Introduction to Python |
 | 2:30 - 2:45 pm | Break with refreshments |
