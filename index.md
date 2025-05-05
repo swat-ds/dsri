@@ -17,13 +17,14 @@ Space is limited, so please register using the [DSRI 2025 Registration Form](htt
 ## Schedule
 
 | 8:45 - 9:15 am | Introductions, overview, breakfast  |
-| 9:15 - 10:30 am | Working with AI tools|
+| 9:15 - 10:30 am | [Working with AI tools](https://docs.google.com/document/d/11XV5FS1t0Qy9833FANdsx-Us7gArYtnC_MbpqAGoPAI/edit?usp=sharing)|
 | 10:30 - 10:45 am | Break |
-| 10:45 - 12:00 pm | Working with AI tools |
+| 10:45 - 12:00 pm | [Working with AI tools](https://docs.google.com/document/d/11XV5FS1t0Qy9833FANdsx-Us7gArYtnC_MbpqAGoPAI/edit?usp=sharing) |
 | 12:00 - 1:15 pm | Lunch |
-| 1:15 - 2:30 pm | Introduction to Python |
+| 1:15 - 2:30 pm | [Introduction to Python](https://github.com/tri-cods/python) |
 | 2:30 - 2:45 pm | Break with refreshments |
-| 2:45 - 4:00 pm | Introduction to Python...continued |
+| 2:45 - 4:00 pm | ---
+...continued |
 | 4:00 - 4:30 pm | Lightning Presentations |
 | 4:30 - 5:00 pm | Happy Hour |
 
