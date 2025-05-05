@@ -23,8 +23,7 @@ Space is limited, so please register using the [DSRI 2025 Registration Form](htt
 | 12:00 - 1:15 pm | Lunch |
 | 1:15 - 2:30 pm | [Introduction to Python](https://github.com/tri-cods/python) |
 | 2:30 - 2:45 pm | Break with refreshments |
-| 2:45 - 4:00 pm | ---
-...continued |
+| 2:45 - 4:00 pm | [Introduction to Python](https://github.com/tri-cods/python)...continued |
 | 4:00 - 4:30 pm | Lightning Presentations |
 | 4:30 - 5:00 pm | Happy Hour |
 
