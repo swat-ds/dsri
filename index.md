@@ -13,7 +13,13 @@ Space is limited, so please register using the [DSRI 2026 Registration Form](htt
 
 ## Workshops
 
-This year’s workshop topics will cover teaching with games and making interactive maps. Check back soon for a detailed schedule and individual workshop descriptions.
+### Games for Pedagogy and Research
+
+Games can be powerful tools to enhance your teaching and research. In this session we will explore the hows and whys of game-based learning, guided by real-world examples. We will introduce core principles of game design and best practices to craft meaningful game experiences for students, showcasing a variety of game-building tools. Our hands-on component will focus on building and publishing games with Twine, a free, open-source tool for creating text-based games and hypertext narratives: you will learn how to approach a game project from concept to creation.
+
+### Thinking Spatially 
+
+Have you ever wondered how you can design digital maps for class projects or showcasing research data? This session will teach you how to tell stories with mapping tools, with a focus on critical analysis of maps and designing accessible digital projects. Session leaders will cover a range of mapping softwares from ArcGIS/ESRI, as well as discussing how to ‘think spatially’ about data across the disciplines. You will have a chance to practice using these tools in class, ranging from easy-to-use templates for those new to mapping, to more advanced mapping tools to visualize complex research data. 
 
 ## Instructional team
 
