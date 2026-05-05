@@ -43,5 +43,10 @@ sean:
 doug:
   name: Doug Willen
   bio: Dr. Doug Willen is the Senior Academic Technologist at Swarthmore College. He takes primary responsibility for the support of the Social Sciences faculty, with specific interests in Data Analysis tools, GIS, and drones on campus. Dr. Willen has been  working with computers since the late 1970s on a wide variety of systems, and has a broad interests in technology generally, including, in his spare time, historical woodworking tools. Dr. Willen completed his undergraduate degree at Princeton University, followed by his Ph.D in Visual Psychophysics (Psychology) at UC San Diego. Dr. Willen's continues to be interested in problems in vision and attention in adults and infants.
-  image:
+  shool: swarthmore
+
+liz:
+  name: Liz Hogrefe
+  bio: Liz Hogrefe is the Emerging Technologies Fellow at Swarthmore College, where her primary focus is ethical implementation of virtual reality in higher ed curricula. Her research interests are digital storytelling modes and the use of video games as a contextualization tool. At the University of Rochester, she was the Karp Library Fellow in Narrative Virtual Reality Design, where she researched and developed two video games specifically for historical education. When she’s not evaluating games for pedagogical value, she loves playing Dead by Daylight and Animal Crossing.
+  image: liz.jpg
   shool: swarthmore
