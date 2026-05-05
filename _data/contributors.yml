@@ -4,6 +4,18 @@ patty:
   image: guardiola.jpg
   school: haverford
 
+liz:
+  name: Liz Hogrefe
+  bio: Liz Hogrefe is the Emerging Technologies Fellow at Swarthmore College, where her primary focus is ethical implementation of virtual reality in higher ed curricula. Her research interests are digital storytelling modes and the use of video games as a contextualization tool. At the University of Rochester, she was the Karp Library Fellow in Narrative Virtual Reality Design, where she researched and developed two video games specifically for historical education. When she’s not evaluating games for pedagogical value, she loves playing Dead by Daylight and Animal Crossing.
+  image: liz.jpg
+  shool: swarthmore
+
+sean:
+  name: Sean Keenan
+  bio: is an Educational and Scholarly Technology Specialist for Bryn Mawr College. He is engaged in connecting community members with their desired online knowledge and fostering a digitally collaborative learning environment. He is interested in the ways students, staff, and faculty engage with open source software and computational tools, and loves finding new ways to create impactful experiences in teaching. In his free time he enjoys experimenting with web design, backend programming, and surfing the web for interesting tech tutorials.
+  image: keenan.png
+  school: brynmawr
+
 anna:
   name: Anna Lacy
   bio: is the Digital Scholarship Librarian at Haverford College. Anna has experience working on community-engaged digital history projects and a background in History. She holds a B.A. in History from Stockton University, an M.A. in History with a certificate in Museum Studies from the University of Delaware, and is a Ph.D. candidate in History at the University of Delaware. 
@@ -34,19 +46,7 @@ roberto:
   image: vargas.jpg
   school: swarthmore
 
-sean:
-  name: Sean Keenan
-  bio: is an Educational and Scholarly Technology Specialist for Bryn Mawr College. He is engaged in connecting community members with their desired online knowledge and fostering a digitally collaborative learning environment. He is interested in the ways students, staff, and faculty engage with open source software and computational tools, and loves finding new ways to create impactful experiences in teaching. In his free time he enjoys experimenting with web design, backend programming, and surfing the web for interesting tech tutorials.
-  image: keenan.png
-  school: brynmawr
-
 doug:
   name: Doug Willen
   bio: Dr. Doug Willen is the Senior Academic Technologist at Swarthmore College. He takes primary responsibility for the support of the Social Sciences faculty, with specific interests in Data Analysis tools, GIS, and drones on campus. Dr. Willen has been  working with computers since the late 1970s on a wide variety of systems, and has a broad interests in technology generally, including, in his spare time, historical woodworking tools. Dr. Willen completed his undergraduate degree at Princeton University, followed by his Ph.D in Visual Psychophysics (Psychology) at UC San Diego. Dr. Willen's continues to be interested in problems in vision and attention in adults and infants.
-  shool: swarthmore
-
-liz:
-  name: Liz Hogrefe
-  bio: Liz Hogrefe is the Emerging Technologies Fellow at Swarthmore College, where her primary focus is ethical implementation of virtual reality in higher ed curricula. Her research interests are digital storytelling modes and the use of video games as a contextualization tool. At the University of Rochester, she was the Karp Library Fellow in Narrative Virtual Reality Design, where she researched and developed two video games specifically for historical education. When she’s not evaluating games for pedagogical value, she loves playing Dead by Daylight and Animal Crossing.
-  image: liz.jpg
   shool: swarthmore
